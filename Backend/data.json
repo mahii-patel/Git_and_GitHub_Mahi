@@ -1,0 +1,23 @@
+[
+    {
+        "id" : 1,
+        "name" : "mahi",
+        "department" : "Cloud and application development"
+    },
+    {
+        
+        "id" : 2,
+        "name" : "Nishra",
+        "department" : "Cyber security"
+    },
+    {
+        "id" : 3,
+        "name" : "Tirth",
+        "department" : "Data Science"
+    },
+    {
+        "id" : 4,
+        "name" : "Nishant",
+        "department" : "Data Science"
+    }
+]
